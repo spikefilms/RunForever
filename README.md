@@ -2,15 +2,11 @@
 
 A static one-page official website for *Run Forever* by Spike Films.
 
-## Before publishing
-
-Replace these placeholders in `index.html`, `robots.txt`, and `sitemap.xml`:
-
-- `YOUR-DOMAIN.example`
-- `YOUR-YOUTUBE-URL`
-- `YOUR-YOUTUBE-TRAILER-EMBED-URL`
-- `YOUR-IMDB-URL`
-- `YOUR-SPIKE-FILMS-URL`
+- `https://spikefilms.github.io/RunForever/`
+- `https://youtube.com/@officialspikefilms/`
+- `https://youtu.be/HlDu_QRnpfw?si=GH5P5d8BptXCZT0i`
+- `https://www.imdb.com/title/tt44773324/?ref_=ext_shr`
+- `https://audiomack.com/khardeshivam777/album/runforever`
 
 ## Poster
 
